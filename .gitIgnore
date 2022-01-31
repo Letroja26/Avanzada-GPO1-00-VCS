@@ -1,0 +1,7 @@
+#Archivos que se desean ignorar
+inicio.txt
+*.tmp
+*.dmp
+
+#Carpetas que se desean ignorar
+Debug/
